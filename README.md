@@ -1,2 +1,3 @@
 # practice
-i am creating my new repository
+I am creating my new repository
+Author rakesh kumar
